@@ -8,3 +8,4 @@ Next run the command  "adb reverse tcp:<destination_port> tcp:<source:port>" whe
 and source port is the port which is active in the PC(say localhost:3000)\
 Eg: adb reverse tcp:4200 tcp:3000\
 minimize the command prompt and run the localhost port on the phone which was specifed.
+ Software Contributed by:   https://github.com/Sahank29
